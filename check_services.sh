@@ -10,4 +10,4 @@ then
     echo "[FAIL] $SVC не работает"
   fi
 done
-echo "Проверено служб: ${#SERVICES[@]}"
+echo "Всего проверено: ${#SERVICES[@]}"
