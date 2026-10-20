@@ -1,1 +1,1 @@
-# my-infra: DevOps-скрипты
+# my-infra: DevOps-скрипты для моих серверов
